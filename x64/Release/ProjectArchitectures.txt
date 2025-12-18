@@ -1,0 +1,1 @@
+C:\Users\Patrice\Projets en cours\ApplicationWinRT\ApplicationWinRT.vcxproj;x64
